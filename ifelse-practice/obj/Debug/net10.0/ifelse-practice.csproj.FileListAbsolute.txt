@@ -1,0 +1,4 @@
+C:\Users\acer\source\repos\ifelse-practice\ifelse-practice\obj\Debug\net10.0\ifelse-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ifelse-practice\ifelse-practice\obj\Debug\net10.0\ifelse-practice.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ifelse-practice\ifelse-practice\obj\Debug\net10.0\ifelse-practice.AssemblyInfo.cs
+C:\Users\acer\source\repos\ifelse-practice\ifelse-practice\obj\Debug\net10.0\ifelse-practice.csproj.CoreCompileInputs.cache
